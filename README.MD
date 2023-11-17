@@ -1,11 +1,11 @@
 ## Problem Scenario
-Implement factory design pattern using Pet as the factory interface. The interface implements two methods: makeSound() and play().
+Implement factory design pattern using Wire as the factory interface. The interface implements two methods: size() and uses().
 
-Dog and Cat are concrete objects that implements Pet interface.
+Service Wire Cable and Telecommunication are concrete objects that implements Pet interface.
 
-PetRecord holds attributes such as petId, petName, and Pet.
+WireRecords holds attributes such as wireName, wireID, and Wire.
 
-Clinic would be the client object.
+Customer would be the client object.
 
 Refer to the UML Class Diagram
 
